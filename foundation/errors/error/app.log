@@ -1,0 +1,10 @@
+2020/11/29 13:03:03 error: open /never/found/path/ghost.yml: no such file or directory
+unable to open config file
+main.readConfig
+	/Users/sarwo.wibowo/Learning/golang/mini-project/foundation/errors/error/config_app.go:32
+main.main
+	/Users/sarwo.wibowo/Learning/golang/mini-project/foundation/errors/error/config_app.go:13
+runtime.main
+	/usr/local/go/src/runtime/proc.go:204
+runtime.goexit
+	/usr/local/go/src/runtime/asm_amd64.s:1374
